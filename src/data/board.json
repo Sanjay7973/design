@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Charlie Calzoni",
+      "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    },
+    {
+      "name": "Leo Vaccaro",
+      "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    },
+    {
+      "name": "Ann Dorwart",
+     "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    },
+    {
+      "name": "Corey Korsgaard",
+      "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    },
+    {
+      "name": "Omar Korsgaard",
+      "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    },
+    {
+      "name": "Omar Korsgaard",
+      "img": "https://s3-alpha-sig.figma.com/img/f6b8/44f6/b0f823f844a9d0d6abc92093835f244f?Expires=1745193600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JSo311O2pfvwsZcQQMbqpDjO-g5fxTuR7mor8n~w-jk~emU5JSmBgQL62NCyo59fQzc~hUDo2dyT3nstx-5mWlyBGpnMFllI7lMmpR5-jJ3LAvbtG5goSeaETxfN6~Iu9dafXTGmpoVEflPIz7nXbiFdZ-yHRn0uYjjXfZfpJqa~N7Wj3cMVJJlME7-q9AT4AP~R62E2erz~3LDH8mOQUKcsXJ4Gec~2D7p4FU06Yo5i2u0ovWpvK30GdzC2YNCxGwhkywq1Q0YuDHZdS~uHVdL~q~eulI4VVpLSggHiP9751oiaUjbbVwuirL6qjgkIr-c0HV3Zg3AHtVLEUyN28A__",
+      "position": "Role",
+      "linkedIn_url": "jgkhasdkj",
+      "x_url": "hgbva",
+      "other_url": "asdgbk"
+    }
+  ]
+}
